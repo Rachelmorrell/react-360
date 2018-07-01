@@ -1,0 +1,15 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Examples/DashSample/package.json",
+        "Examples/Pairs/package.json",
+        "React360/package.json",
+        "package.json",
+        "packages/react-360-cli/generators/package.json.generator.js",
+        "packages/react-360-cli/package.json",
+        "website/package.json"
+      ]
+    }
+  }
+}
